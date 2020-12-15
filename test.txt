@@ -1,0 +1,11 @@
+public class Emploee: Person
+{
+	public int f1;
+}
+
+private abstract class Human
+{
+	private string s;
+
+	public string Add(string str);
+}
